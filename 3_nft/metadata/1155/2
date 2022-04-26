@@ -1,0 +1,36 @@
+{
+  "name": "Titan's Revenge",
+  "description": "Unique Ceremonial Javelin",
+  "image": "https://bafybeid2bguxgkeojvehigfv4c7krvitnt22emo7dru52f6p7ckdvmnpp4.ipfs.nftstorage.link/2.png",
+  "external_url": "https://diablo2.wiki.fextralife.com/Titan's+Revenge",
+  "attributes": [
+    {
+      "trait_type": "Throw Damage",
+      "value": "(70-79) To (185-212)"
+    },
+    {
+      "trait_type": "One-Hand Damage",
+      "value": "(70-79) To (137-155)"
+    },
+    {
+      "trait_type": "Required Level",
+      "value": 42
+    },
+    {
+      "trait_type": "Required Strength",
+      "value": 25
+    },
+    {
+      "trait_type": "Required Dexterity",
+      "value": 109
+    },
+    {
+      "trait_type": "Base Weapon Speed",
+      "value": "[-10]"
+    },
+    {
+      "trait_type": "Max Stack",
+      "value": "(140)"
+    }
+  ]
+}
