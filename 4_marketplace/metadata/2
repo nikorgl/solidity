@@ -1,0 +1,28 @@
+{
+  "name": "Bladebone",
+  "description": "Unique Double Axe",
+  "image": "https://bafybeib3cue63bkkbxz3xxipszsmwk47vamsrbvfmdy4lotr5mpxlbl4xa.ipfs.nftstorage.link/2.png",
+  "external_url": "https://diablo2.wiki.fextralife.com/Bladebone",
+  "attributes": [
+    {
+      "trait_type": "One-Hand Damage",
+      "value": "(6-7) To (16-19)"
+    },
+    {
+      "trait_type": "Required Level",
+      "value": 15
+    },
+    {
+      "trait_type": "Required Strength",
+      "value": 43
+    },
+    {
+      "trait_type": "Durability",
+      "value": 24
+    },
+    {
+      "trait_type": "Base Weapon Speed",
+      "value": "[10]"
+    }
+  ]
+}
