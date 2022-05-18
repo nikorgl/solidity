@@ -1,4 +1,9 @@
 import "./deploy";
+import "./deposit";
+import "./withdraw";
+import "./addProposal";
+import "./vote";
+import "./finish";
 
 import { task } from "hardhat/config";
 task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
