@@ -6,3 +6,4 @@
 ## 4. [NFT Marketplace implementation](https://github.com/nikorgl/solidity/tree/main/4_marketplace)
 ## 5. [Bridge from Ethereum to Binance Smart Chain](https://github.com/nikorgl/solidity/tree/main/5_bridge)
 ## 6. [DAO platform](https://github.com/nikorgl/solidity/tree/main/6_dao)
+## 7. [Multifunctional platform with LP token staking, DAO and marketplace](https://github.com/nikorgl/solidity/tree/main/7_platform)
