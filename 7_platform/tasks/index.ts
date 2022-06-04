@@ -5,6 +5,13 @@ import "./staking_unstake.ts";
 import "./dao_addProposal";
 import "./dao_finish";
 import "./dao_vote";
+import "./platform_addorder.ts";
+import "./platform_buyacdm.ts";
+import "./platform_redeemorder.ts";
+import "./platform_register.ts";
+import "./platform_removeorder.ts";
+import "./platform_startsale.ts";
+import "./platform_starttrade.ts";
 
 import { task } from "hardhat/config";
 task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
