@@ -80,3 +80,24 @@ Requirements
 - Upload to the test network
 - Write tasks on on basic methods
 - Verify contracts
+
+
+## Info about deployed contracts
+
+### XXX token
+https://rinkeby.etherscan.io/address/0xCC7C56a676A1b4bafdbDbd9Ac93554e57abBBBd0
+
+### ACDM token
+https://rinkeby.etherscan.io/address/0x9Fda078095Bd368be59A5c7F9aba688a6E528586
+
+### Liquidity provider token
+https://rinkeby.etherscan.io/token/0x70BDD02Fa5B4D453068284Fcd010e4162c97B2a5
+
+### Staking contract
+https://rinkeby.etherscan.io/address/0xD81a9c5F7DDc93Be261687d3c05156ac024E3aF1
+
+### DAO contract
+https://rinkeby.etherscan.io/address/0xe994921e3cdf9EAe5361ff67131207411E5357ef
+
+### ACDM platform
+https://rinkeby.etherscan.io/address/0x21eb640e3BDB3B9EB45cc3cC2de9695240B8c4d2
