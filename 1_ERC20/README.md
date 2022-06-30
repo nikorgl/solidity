@@ -1,7 +1,6 @@
-# ERC20 Sample Project
+#### English [Русский](https://github.com/nikorgl/solidity/tree/main/1_ERC20/README.ru.md)
 
-Contract address:
-https://rinkeby.etherscan.io/address/0xace294036fE7546e6bB8288Ea17ebc7287Bb7E2b
+# ERC20 Sample Project from scratch
 
 ## Task
 Write an ERC-20 standard token
@@ -17,4 +16,8 @@ Requirements
 - All ERC-20 tokens in the network must meet the standard described in the eip.
 - Contain the full set of functions from EIP.
 - The implementation of logic and the responsibility for correctness lies with you, however, the network is full of examples of ERC20 tokens, where you can see how the implementation of such tokens usually looks like.
+
+## Info about deployed contract
+Contract address:
+https://rinkeby.etherscan.io/address/0xace294036fE7546e6bB8288Ea17ebc7287Bb7E2b
 

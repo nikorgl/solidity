@@ -1,3 +1,4 @@
+#### English [Русский](https://github.com/nikorgl/solidity/tree/main/7_platform/README.ru.md)
 # Sample multi functional project
 
 ## Task
@@ -12,7 +13,7 @@ The platform will consist of several contracts (ACDMToken, XXXToken, Betting, DA
 - symbol = ACDM
 - decimals = 18
 
-XXXToken must be flipped to uniswap. The initial price of the token is 0.00001 ETH.
+XXXToken must be flipped to Uniswap. The initial price of the token is 0.00001 ETH.
 
 ### Staking description 
 The staking contract accepts LP tokens (XXX/ETH). 
@@ -34,9 +35,7 @@ Each round lasts 3 days.
 #### Basic concepts:
 "Sale" round - In this round, the user can buy ACDM tokens at a fixed price from the platform for ETH.
 
-
 "Trade" round - in this round, users can buy ACDM tokens from each other for ETH.
-
 
 Referral program — The referral program has two levels, users receive rewards in ETH.
 
@@ -46,7 +45,6 @@ The number of tokens issued in each Sale round is different and depends on the t
 The round may end prematurely if all tokens have been sold out. 
 At the end of the round, unsold tokens are burned. 
 The very first round sells tokens worth 1ETH (100,000 ACDM)
-
 
 Calculation example: 
 Trading volume in a trade round = 0.5 ETH (the total amount of ETH for which users traded within one trade round) 0,5/0,0000187 = 26737.96. 

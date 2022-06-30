@@ -1,3 +1,5 @@
+#### English [Русский](https://github.com/nikorgl/solidity/tree/main/6_dao/README.ru.md)
+
 # Sample DAO project
 
 ## Task
@@ -16,6 +18,8 @@ Requirements
 - To participate in the voting, the user needs to make a deposit, one token, one vote.
 - The user can participate in voting with the same tokens, that is, the user has contributed 100 tokens, he can participate in voting No. 1 with all 100 tokens and in voting No. 2 also with all 100 tokens.
 - Any user can finish the voting after a certain amount of time set in the constructor.
+
+## Info about deployed contract
 
 ### ERC-20 contract
 https://rinkeby.etherscan.io/address/0xC06F7b5cdAccd18A37639FdceCE943e7eD744c7E

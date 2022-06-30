@@ -1,5 +1,8 @@
+#### English [Русский](https://github.com/nikorgl/solidity/tree/main/0_donates/README.ru.md)
+
 ## Task
 Write a smart contract for accepting donations in the form of native currency (ETH, BNB, MATIC...)
+
 The main functionality
 1) Make a donation (use msg.value);
 2) Withdraw the donation to a specific address. This action can only be done by the contract creator;

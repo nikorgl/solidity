@@ -1,3 +1,5 @@
+#### English [Русский](https://github.com/nikorgl/solidity/tree/main/5_bridge/README.ru.md)
+
 # Sample cross-chain bridge project
 
 ## Task
@@ -14,14 +16,16 @@ Requirements
 - redeem() function: calls the ecrecover function and restores the validator's address based on the hashed message and signature, if the address matches the address specified on the bridge contract, tokens are sent to the user
 
 
-## SIDE 0
+## Info about deployed contracts
+
+## Side Rinkeby
 ### ERC-20 contract
 https://rinkeby.etherscan.io/address/0xf57B91D2C402D41fE77cbc48CE5AB52A34e542E9
 ### Bridge contract
 https://rinkeby.etherscan.io/address/0xDbE4939886DFeeCD432887aC1011E1Dd2892cAD0
 
 
-## SIDE 1
+## Side BSC
 ### ERC-20 contract
 https://testnet.bscscan.com/address/0xD5c115456F405323114Af033048aB026be8ef58a
 ### Bridge contract
